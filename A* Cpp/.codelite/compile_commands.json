@@ -1,0 +1,9 @@
+[{
+  "directory": "/media/aditya/INSTALL and EXTRA/CppND/Astar-Search-CppND/A* Cpp/Astar_search",
+  "command": "/usr/bin/g++ -Wmain -std=c++14 -Wall -g -O0 -Wall -I. -I. -MG -MP -MT./Debug/main.cpp.o -MF./Debug/main.cpp.o.d -MM main.cpp",
+  "file": "/media/aditya/INSTALL and EXTRA/CppND/Astar-Search-CppND/A* Cpp/Astar_search/main.cpp"
+ }, {
+  "directory": "/media/aditya/INSTALL and EXTRA/CppND/Astar-Search-CppND/A* Cpp/Astar_search",
+  "command": "/usr/bin/g++ -c \"/media/aditya/INSTALL and EXTRA/CppND/Astar-Search-CppND/A* Cpp/Astar_search/main.cpp\" -Wmain -std=c++14 -Wall -g -O0 -Wall -o ./Debug/main.cpp.o -I. -I.",
+  "file": "/media/aditya/INSTALL and EXTRA/CppND/Astar-Search-CppND/A* Cpp/Astar_search/main.cpp"
+ }]
